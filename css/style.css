@@ -30,10 +30,16 @@
     font-size: 1em;
     color: white;
     padding: 20px;
-    
-
 
 }
+
+.content ul li {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.712);
+    display: inline-block;
+    font-size: 20px;
+    padding: 0px 10px;
+   }
 
 .content {
     grid-column: 3 / -1;
